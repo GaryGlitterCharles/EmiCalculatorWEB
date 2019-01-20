@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EmiCalculator
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gary Glitter Charles
+Implementation-Vendor-Id: com.emicalculator.gary
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EmiCalculator
+Created-By: Maven Integration for Eclipse
+
